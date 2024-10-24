@@ -9,7 +9,7 @@
 }
 
 .main {
-    background-image: url("assets/back_image.jpg");
+    background-image: url("back_image.jpg");
     background-size: max(1300px, 100vw);
     background-position: center center;
     background-repeat: no-repeat;
